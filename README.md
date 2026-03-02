@@ -11,8 +11,8 @@ This repo tracks my journey to becoming a Junior Software Developer in 2026.
 - Learn JavaScript, React, and Python fundamentals
 
 ## Projects (coming soon)
-- Workout Log App (calisthenics training tracker)
-- Budget Tracker (RSX savings goal)
+- Workout Log App 
+- Budget Tracker 
 - Habit Streak App
 
 ## Why this repo exists
